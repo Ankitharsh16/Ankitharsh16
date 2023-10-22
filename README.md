@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ankitharsh
-- 👀 I’m interested in embedded c
-- 🌱 I’m currently learning embedded c
-- 💞️ I’m looking to collaborate on avr programming
-- 📫  just msg me if you have relevant knowledge or experience  
+- 👋 Hi, I’m @Ankitharsh working in the start-up as an Embedded Engineer 
+- 👀 I’m interested in the Embedded Field along with different microcontrollers 
+- 🌱 I’m currently working in  embedded c
+- 💞️ I’m looking to collaborate on AVR programming 
+- 📫  just message me if you have relevant knowledge or experience  
 
 <!---
 Ankitharsh16/Ankitharsh16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
