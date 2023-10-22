@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankitharsh working in the start-up as an Embedded Engineer 
+- 👋 Hi, I’m @Ankitharsh working in the start-up (Pyrox I City )as an Embedded Engineer
 - 👀 I’m interested in the Embedded Field along with different microcontrollers 
 - 🌱 I’m currently working in  embedded c
 - 💞️ I’m looking to collaborate on AVR programming 
